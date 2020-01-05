@@ -9,7 +9,7 @@ also known as Kolab Enterprise Web Client Skin.
 
 ## installation
 
-Just copy it content as `chameleon` directory into your Roundcube instance/skins directory.
+Just copy it content **as `chameleon` directory** into your Roundcube instance/skins directory.
 
 **Chameleon depends on Larry, so this skin must be installed too.**
 
